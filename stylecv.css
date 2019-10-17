@@ -1,0 +1,74 @@
+
+
+
+body {
+
+	font-family: Calisto MT;
+	margin: 0;
+	background-image: url(Abstrak.jpg);
+
+
+}
+
+.header {
+	background-image: url(rrq.jpg);
+    
+    text-align: center;
+    color:white;
+    padding : 50px;
+    font-size: 200%;
+   
+
+}
+.header1 {
+	 background-color: rgba(2,  0, 0, 0.5);
+	 color :gold;
+	 border-radius: 50px;
+}
+
+.quote {
+	color: gold;
+	 background-color: rgba(2,  0, 0, 0.5);
+	 text-align: center;
+
+}
+
+
+
+.navbar{
+	display: flex;
+	background-color: #000;
+	padding-bottom: 10px;
+
+}
+
+.isi {
+ border: 5px solid gold;
+margin-top: 40px;
+
+
+}
+
+.cv {
+ background-color: aqua;
+ padding : 20px;
+ 
+}
+
+.biodata {
+	background-color: black;
+text-align: center;
+	color: gold;
+	padding:  10px;
+}
+.navbar a:hover{
+	background-color: white;
+	color: white;
+	transition : color 10s ease;
+}
+
+.jarak {
+	padding-left:  120px;
+	padding-bottom: 120px;
+}
+

@@ -1,0 +1,37 @@
+body {
+	background-image: url(OK.jpg);
+}
+h1 {
+	color:gold;
+	text-align: center;
+	font-size: 300%;
+}
+.th {
+	text-align: center;
+}
+
+.logo {
+width: 30%;
+
+}
+
+
+
+.table1 {
+
+	margin-top: 50px;
+	font-family: bookman old style;
+	border-width: 40;
+	background-color: black ;	
+	border-color: gold;
+	color: gold;
+}
+footer {
+	color:white;
+}
+
+td{
+	border-right: 1 solid black;
+}
+
+
